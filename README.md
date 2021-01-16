@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome I am Swapnali
 
-<p align="center">
+<p align="justify>
 I am an enthusiastic and highly ambitious individual with the passion to learn new things and device optimal solutions that make an impact. I love to work in a fast pace environment with a steep learning curve. A team player with good organizational and communication skills.
 Looking forward to work with an organization where I can utilize my technical skills and knowledge to gain more practical experience and grow along with the growth of the organization.
 
