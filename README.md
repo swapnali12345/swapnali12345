@@ -8,13 +8,13 @@ Looking forward to work with an organization where I can utilize my technical sk
 I have hands-on practical knowledge in field of software development and data analysis.I have had lot of opportunities to work on different research projects, programming languages and technologies. I have used and worked on a lot of new technologies in areas of big data, backend, frontend and full stack development. I am fluent in programming languages like Java, Python, C# .NET as well as and web-based languages like PHP, HTML, CSS, JavaScript etc. I am also familiar with various big data technologies like Hadoop, HDFS, Pig, Hive, Spark. I have worked on advanced database with schema designing as well as normalizations for MySQL, Oracle, MS SQL Server and Vertica. I have used various new concepts along with effective practical implementations.
 </p>
 
-TECHNICAL SKILLS -<br>
+<b>TECHNICAL SKILLS -</b><br>
 • Programming Languages: Python, Java, C, C++, C#, HTML, CSS, PHP, R, Bootstrap, JavaScript.<br>
 • Big Data Technologies: Hadoop, HDFS, MapReduce, Pig, Hive, Spark, Sqoop.<br>
 • Databases: MySQL, Oracle, MS SQL Server, PostgreSQL, MongoDB.<br>
 • Tools: Eclipse, Visual Studio, SQL Developer, R Studio, SSRS, AWS, JIRA, SVN, GitHub.<br>
 
-- 📫 How to reach me: swapnali.wakchaure12@gmail.com
+📫 <b>How to reach me:</b> swapnali.wakchaure12@gmail.com
 
 <!--
 **swapnali12345/swapnali12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
