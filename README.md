@@ -14,7 +14,7 @@ I have hands-on practical knowledge in field of software development and data an
 • Databases: MySQL, Oracle, MS SQL Server, PostgreSQL, MongoDB.<br>
 • Tools: Eclipse, Visual Studio, SQL Developer, R Studio, SSRS, AWS, JIRA, SVN, GitHub.<br>
 
-📫 <b>How to reach me:</b> swapnali.wakchaure12@gmail.com
+📫 <b>How to reach me: swapnali.wakchaure12@gmail.com </b>
 
 <!--
 **swapnali12345/swapnali12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
