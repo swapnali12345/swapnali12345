@@ -3,7 +3,8 @@
 <p align="justify">
 I am an enthusiastic and highly ambitious individual with the passion to learn new things and device optimal solutions that make an impact. I love to work in a fast pace environment with a steep learning curve. A team player with good organizational and communication skills.
 Looking forward to work with an organization where I can utilize my technical skills and knowledge to gain more practical experience and grow along with the growth of the organization.
-
+</p>
+<p align="justify">
 I have hands-on practical knowledge in field of software development and data analysis.I have had lot of opportunities to work on different research projects, programming languages and technologies. I have used and worked on a lot of new technologies in areas of big data, backend, frontend and full stack development. I am fluent in programming languages like Java, Python, C# .NET as well as and web-based languages like PHP, HTML, CSS, JavaScript etc. I am also familiar with various big data technologies like Hadoop, HDFS, Pig, Hive, Spark. I have worked on advanced database with schema designing as well as normalizations for MySQL, Oracle, MS SQL Server and Vertica. I have used various new concepts along with effective practical implementations.
 </p>
 
